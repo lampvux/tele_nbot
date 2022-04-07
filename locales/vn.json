@@ -1,0 +1,17 @@
+{
+	"saved_language": "Ngôn ngữ đã được thay đổi 🇻🇳.",
+	"resize_more": "Bạn muốn thay đổi kích thước ảnh tiếp theo 🔥 ? /resize",
+	"start_resize": "Bắt đầu thay đổi kích thước",
+	"premium": "Nâng cấp Premium",
+	"welcome_message": "Xin chào các bạn đến với 💗 Resize Image Bot 🔥 \nBạn có thể sử dụng để thay đổi kích thước ảnh của bất kỳ ảnh nào của bạn.",
+	"send_image": "Hãy gửi ảnh của các bạn ở đây 🖼️ :",
+	"input_image_width": "Chiều rộng mong muốn (pixel) 📐:",
+	"input_image_width_note": "Chiều rộng mong muốn (pixel) (chữ số) 📐:",
+	"input_image_height": "Chiều cao mong muốn (pixel) 📏 :",
+	"input_image_height_note": "Chiều cao mong muốn (pixel) (chữ số) 📏 :",
+	"input_image_type": "Kiểu ảnh mong muốn📏 :",
+	"choose_language": "Thay đổi ngôn ngữ ",
+	"resize_output_error": "Lỗi, hãy chọn kiểu ảnh khác 😣",
+	"resize_error": "Không thể thay đổi kích thước ảnh, hãy thử lại 😫",
+	"resized_caption": "Đây là ảnh của bạn 🥰"
+}
