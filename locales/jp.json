@@ -1,4 +1,17 @@
 {
     "saved_language": "Thanks, your language has been saved.",
-    "resize_more": "Do you want to resize more 🔥 ? /resize"
+    "resize_more": "Do you want to resize more 🔥 ? /resize",
+    "start_resize": "Start Resize",
+    "premium": "Premium",
+    "welcome_message": "Welcome to 💗 Resize Image Bot 🔥 \nYou can use this bot to resize any image you want.",
+    "send_image": "Please send your image 🖼️ :",
+    "input_image_width": "Your desired Image Width (px) 📐:",
+    "input_image_width_note": "Your desired Image Width (px) (Number only) 📐:",
+    "input_image_height": "Your desired Image Height (px) 📏 :",
+    "input_image_height_note": "Your desired Image Height (px) (Number only) 📏 :",
+    "input_image_type": "Your desired Image type 📏 :",
+    "choose_language": "Please choose your language",
+    "resize_output_error": "Error, please try another output 😣",
+    "resize_error": "Can not convert your Image ! Please try again 😫",
+    "resized_caption": "Here is your image 🥰"
 }
